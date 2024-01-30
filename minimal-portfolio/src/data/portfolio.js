@@ -2,9 +2,9 @@
  export default [
     {
         title: 'The Conversationalist',
-        imgUrl: '',
+        imgUrl: '/assets/images/theconversationalist.PNG',
         stack: ['TypeScript', 'Next.js', 'Docker'],
-        link: ''
+        link: 'https://reformed-22an6t4ebq-uc.a.run.app/'
     },
     {
         title: 'Portfolio Website',

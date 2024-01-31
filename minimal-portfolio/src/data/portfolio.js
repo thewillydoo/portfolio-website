@@ -13,8 +13,8 @@
         link: ''
     },
     {
-        title: 'Soon to come cancer prediction website',
-        imgUrl: '',
+        title: 'Cancer Prediction using Machine Learning',
+        imgUrl: '/assets/images/cancerprediction.PNG',
         stack: ['Python', 'TypeScript', 'Next.js'],
         link: ''
     }

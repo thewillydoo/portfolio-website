@@ -1,14 +1,17 @@
 import React from "react";
+import Title from "./Title";
 
 function Contact() {
   return (
     <div className="flex flex-col mb-10 mx-auto">
       <div className="flex justify-center items-center">
+        
         <form
           className="flex flex-col w-full md:w-1/2"
           action="https://getform.io/f/6cf448c4-d770-4487-b444-825e68f85f0d"
           method="POST"
         >
+        <Title id="contact">Contact</Title>
           <input
             type="text"
             name="name"

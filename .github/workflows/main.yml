@@ -37,7 +37,7 @@ jobs:
           cache: 'npm'
           cache-dependency-path: './minimal-portfolio/package-lock.json'
       - name: Install dependencies
-        run: npm install --prefix C:/Coding/portfolio-website/minimal-portfolio
+        run: npm install
       - name: Build 
         run: npm run build 
       - name: Setup Pages

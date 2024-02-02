@@ -35,6 +35,7 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
+          cache-dependency-path: './minimal-portfolio/package-lock.json'
       - name: Install dependencies
         run: npm install
       - name: Build

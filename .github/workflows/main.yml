@@ -37,9 +37,9 @@ jobs:
           cache: 'npm'
           cache-dependency-path: './minimal-portfolio/package-lock.json'
       - name: Install dependencies
-        run: npm install
-      - name: Build
-        run: npm run build
+        run: npm install --prefix /minimal-portfolio/package-lock.json
+      - name: Build 
+        run: npm run build 
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact

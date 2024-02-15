@@ -9,8 +9,7 @@ function Intro() {
       I am a Software Engineering student studying at the University of Alberta with a passion for full-stack development and deep learning. 
       I have a strong understanding of both front-end and back-end technologies, and I am super excited to put my skills to use in a professional setting. 
       I am constantly improving my skills by working on new projects to enhance my abilities in my free time. Some things I enjoy 
-      indulging in my free time are working out, playing video games with friends or watching the latest shows/movies.
-      Currently, I am seeking a summer internship for 2024. Can't wait to connect with you!
+      indulging in my free time other than personal projects is working out, or watching the latest shows/movies! Can't wait to connect with you!
        </p>
     </div>
   )
